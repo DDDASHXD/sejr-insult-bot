@@ -1,0 +1,25 @@
+{
+  "name": "sejr-insult-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DDDASHXD/sejr-insult-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DDDASHXD/sejr-insult-bot/issues"
+  },
+  "homepage": "https://github.com/DDDASHXD/sejr-insult-bot#readme",
+  "dependencies": {
+    "twitter-api-v2": "^1.12.0"
+  },
+  "type": "module"
+}
